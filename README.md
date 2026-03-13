@@ -1,42 +1,56 @@
-# Welcome to My GitHub Profile
+# Jubayer Ahmed Samrat
 
-## About Me
-I am a passionate backend developer focused on creating efficient and scalable applications. My expertise lies in designing APIs and handling complex data structures.
+Backend-focused software developer interested in **systems programming, scalable APIs, and high-performance software**.
+I enjoy working close to the system layer and building reliable backend services.
 
-## Technical Skills
+---
 
-### Languages
-- C++
-- Go
-- Python
-- JavaScript
-- Rust
+## Interests
 
-### Frameworks
-- Django
-- Flask
-- Express.js
+* Backend architecture
+* Systems programming
+* High-performance computing
+* Distributed systems
+* AI and data-driven applications
 
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
+---
 
-### Tools
-- Git
-- Docker
-- Jenkins
+## Tech Stack
 
-## Learning Goals
-I am currently exploring AI, Data Science to expand my knowledge and skills in these exciting fields.
+**Languages**
+
+C++ • Go • Rust • Python • JavaScript
+
+**Backend**
+
+Django • Flask • Express.js • REST APIs
+
+**Databases**
+
+PostgreSQL • MongoDB • MySQL
+
+**Tools**
+
+Git • Docker • Linux • Jenkins
+
+---
+
+## Current Focus
+
+* Improving backend engineering skills with **Go and Rust**
+* Learning **systems design and distributed systems**
+* Strengthening **data structures and algorithms**
+
+---
 
 ## Competitive Programming
-- [Codeforces](https://codeforces.com/profile/jubayerAhmed)
-- [LeetCode](https://leetcode.com/u/jasamrat/)
 
-## Contact Information
-- Email: [jasamrat@gmail.com](mailto:jasamrat@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jubayer-ahmed-2124723a6/)
+Codeforces: https://codeforces.com/profile/jubayerAhmed
+LeetCode: https://leetcode.com/u/jasamrat/
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JubayerAhmedSamrat&show_icons=true&theme=radical)
+---
+
+## Contact
+
+Email: [jasamrat@gmail.com](mailto:jasamrat@gmail.com)
+LinkedIn: https://www.linkedin.com/in/jubayer-ahmed-2124723a6/
