@@ -1,4 +1,4 @@
-```markdown
+
 # Jubayer Ahmed Samrat
 
 Backend-focused software developer with a strong interest in systems programming, distributed systems, networking, and high-performance software.
@@ -82,4 +82,4 @@ I enjoy building software close to the operating system, where correctness, perf
 ---
 
 *"Building reliable software by understanding systems from the operating system up."*
-```
+
