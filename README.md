@@ -50,7 +50,7 @@ I enjoy building software close to the operating system, where correctness, perf
 | Project | Description |
 |---------|-------------|
 | **[sash3](https://github.com/JubayerAhmedSamrat/sash3)** | Unix-like shell written in Modern C++23 implementing process management, job control, pipes, I/O redirection, and POSIX signal handling. |
-| **HTTP Server** *(https://github.com/JubayerAhmedSamrat/http_server)* | HTTP/1.1 server built from scratch in Modern C++ with socket programming and multithreaded request handling. |
+| **[HTTP Server](https://github.com/JubayerAhmedSamrat/http_server)** | HTTP/1.1 server built from scratch in Modern C++ with socket programming and multithreaded request handling. |
 
 ---
 
